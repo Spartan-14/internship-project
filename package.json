@@ -6,7 +6,10 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@next/font": "^14.2.15",
+    "geist": "^1.4.2"
+  },
   "devDependencies": {
     "typescript": "^5.5.3"
   },
