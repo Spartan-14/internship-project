@@ -7,24 +7,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe95afa-b0f0-437f-80c3-d6b109182b90" name="Changes" comment="project start">
-      <change afterPath="$PROJECT_DIR$/.idea/internship-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/postcss.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/public/file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/public/globe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/public/window.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manga-lib/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" />
+    <list default="true" id="5fe95afa-b0f0-437f-80c3-d6b109182b90" name="Changes" comment="post to work">
+      <change afterPath="$PROJECT_DIR$/wish/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/components/button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/components/modal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/components/navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/next.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/postcss.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/public/window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/styles/button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/styles/home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/styles/modal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/styles/navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +85,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\livyo\OneDrive\Desktop\INTERNSHIP\internship-project\wish\styles" />
+      <recent name="C:\Users\livyo\OneDrive\Desktop\INTERNSHIP\internship-project\wish\public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +108,8 @@
       <workItem from="1751023137125" duration="3173000" />
       <workItem from="1751026404121" duration="14462000" />
       <workItem from="1751107020517" duration="36000" />
-      <workItem from="1751107132598" duration="2669000" />
+      <workItem from="1751107132598" duration="4035000" />
+      <workItem from="1751311723456" duration="11269000" />
     </task>
     <task id="LOCAL-00001" summary="nothing done yet">
       <option name="closed" value="true" />
@@ -104,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751023389427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project start better one">
+      <option name="closed" value="true" />
+      <created>1751111594921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751111594923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nothing done yet" />
     <MESSAGE value="project start" />
-    <option name="LAST_COMMIT_MESSAGE" value="project start" />
+    <MESSAGE value="project start better one" />
+    <MESSAGE value="post to work" />
+    <option name="LAST_COMMIT_MESSAGE" value="post to work" />
   </component>
 </project>
